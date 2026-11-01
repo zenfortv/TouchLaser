@@ -38,6 +38,10 @@ This software steers a real laser. **Keep every beam above the audience, or term
 
 ## What you can do
 
+![The panel: toolbar and canvas on the left, control panel and Video Knobs on the right](docs/img/panel.png)
+
+The toolbar adds lasers, surfaces and lines, and has the E-stop. The canvas shows each laser and surface. The control panel on the right holds Arm, brightness, joystick mode, Save and Load, and the Video Knobs.
+
 - **+ Laser**: each laser is a rectangle on a shared canvas, with its own colour balance, scan rate and step size.
 - **+ Surface**: a rectangle or tilted plane of content: joystick shapes, Spout or NDI video traced into lines, or a test pattern. One surface can span several lasers.
 - **+ Line**: draw a line point by point with corners and curves, then fill it with a mask, hatch, rings, or content bent along it.
