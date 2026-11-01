@@ -1,0 +1,127 @@
+{
+ "Masterlimit": 1.0,
+ "laser": [
+  {
+   "Enable": false,
+   "Devicetype": "shownet",
+   "Device": "",
+   "Test": false,
+   "Testpattern": "grid",
+   "Power": 1.0,
+   "Tintr": 1.0,
+   "Tintg": 1.0,
+   "Tintb": 1.0,
+   "Threshr": 0.0,
+   "Threshg": 0.0,
+   "Threshb": 0.0,
+   "Gamma": 1.0,
+   "Colordelay": 0.0,
+   "Scanrate": 45.0,
+   "Stepsize": 0.03099999949336052,
+   "Blanking": 3.0,
+   "Framesync": false,
+   "Flipx": false,
+   "Flipy": false,
+   "Posx": -1.05,
+   "Posy": 0.55,
+   "Sizex": 0.9,
+   "Sizey": 0.9
+  }
+ ],
+ "surface": [
+  {
+   "Source": "lines",
+   "Dim": 0.0,
+   "Colorr": 1.0,
+   "Colorg": 1.0,
+   "Colorb": 1.0,
+   "Free": true,
+   "Ctlx": -1.489459815546772,
+   "Ctly": 0.32476943346508574,
+   "Ctrx": -0.620421607378129,
+   "Ctry": 0.5084321475625823,
+   "Cblx": -1.506831092579536,
+   "Cbly": 0.09131441585232397,
+   "Cbrx": -0.620421607378129,
+   "Cbry": 0.10079051383399226
+  },
+  {
+   "Source": "spout",
+   "Dim": 1.0,
+   "Colorr": 1.0,
+   "Colorg": 1.0,
+   "Colorb": 1.0,
+   "Free": true,
+   "Ctlx": -1.5028985507246377,
+   "Ctly": 0.4098814229249011,
+   "Ctrx": -0.6025032938076416,
+   "Ctry": 0.553227931488801,
+   "Cblx": -1.4670619235836626,
+   "Cbly": 0.12318840579710162,
+   "Cbrx": -0.5980237154150196,
+   "Cbry": 0.09183135704874845
+  }
+ ],
+ "line": [
+  {
+   "Source": "joystick",
+   "Dim": 0.0,
+   "Closed": false,
+   "Fill": "outline",
+   "Fillwidth": 0.15,
+   "Keepline": false,
+   "points": [
+    [
+     -1.4984,
+     0.1725,
+     0
+    ],
+    [
+     -0.598,
+     0.4054,
+     0
+    ]
+   ]
+  },
+  {
+   "Source": "joystick",
+   "Dim": 0.0,
+   "Closed": false,
+   "Fill": "outline",
+   "Fillwidth": 0.15,
+   "Keepline": false,
+   "points": [
+    [
+     -1.3999,
+     0.1053,
+     0
+    ],
+    [
+     -1.3909,
+     0.3382,
+     0
+    ]
+   ]
+  },
+  {
+   "Source": "joystick",
+   "Dim": 0.0,
+   "Closed": false,
+   "Fill": "mask",
+   "Fillwidth": 0.15,
+   "Keepline": false,
+   "points": [
+    [
+     -0.6652,
+     0.1321,
+     0
+    ],
+    [
+     -0.6652,
+     0.4681,
+     0
+    ]
+   ]
+  }
+ ]
+}
