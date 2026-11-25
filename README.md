@@ -140,3 +140,7 @@ Built in TouchDesigner by talking to Claude (Anthropic) through an MCP server, w
 ## License
 
 [MIT](LICENSE): use it, change it, use it in paid gigs. A tag is appreciated: [@zen_for_tv](https://www.instagram.com/zen_for_tv/).
+
+## Support
+This is free and stays free. If it ends up in your show, or it just saved you a weekend, you can buy me a coffee:
+**[ko-fi.com/zenfortv](https://ko-fi.com/zenfortv)**. It goes back into gear, footage and the next free project.
